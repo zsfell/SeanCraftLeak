@@ -3,4 +3,4 @@ Resources Sean Craft Leaked
 
 ## **How to extarct .mcpack to folder**
 
-change .mcpack to .zip than extract
+change .mcpack to .zip then extract
